@@ -1,0 +1,18 @@
+*{
+	font-family: "sans-serif";
+}
+
+body{
+	background-color: lightblue;
+	width: 800px;	
+	margin: auto; 
+}
+
+.titulo{
+	color: white;
+	text-align: center;
+}
+
+.tabla{
+	color: red;
+}

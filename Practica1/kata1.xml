@@ -3,21 +3,21 @@
 <Alumnos>
 
 	<alumno>
-		<nombre> Kevin Alexis Tejeda Ponce </nombre>
+		<nombre> Kevin Alexis Ponce </nombre>
 		<carrera>Desarrollo de software </carrera>
-		<nacimiento>14/11/2003</nacimiento>
+		<nacimiento>15/05/2000</nacimiento>
 	</alumno>
 
 	<alumno>
-		<nombre> Kevin Isaac Huerta Montero</nombre>
+		<nombre> Kevin Isaac Montero</nombre>
 		<carrera>Desarrollo de software</carrera>
-		<nacimiento>14/02/2003</nacimiento>
+		<nacimiento>28/03/2000</nacimiento>
 	</alumno>
 	
 	<alumno>
-		<nombre> Carlos Elias Huerta Montero</nombre>
+		<nombre> Carlos Elias Carrillo</nombre>
 		<carrera>Desarrollo de software</carrera>
-		<nacimiento d = "08" m = "11" a = "2019">08/11/2019</nacimiento>
+		<nacimiento d = "08" m = "11" a = "2003">08/11/2003</nacimiento>
 	</alumno>
 
 </Alumnos>
