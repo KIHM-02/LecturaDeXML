@@ -1,0 +1,23 @@
+<?xml version ="1.0" encoding = "utf-8"?>
+
+<Alumnos>
+
+	<alumno>
+		<nombre> Kevin Alexis Tejeda Ponce </nombre>
+		<carrera>Desarrollo de software </carrera>
+		<nacimiento>14/11/2003</nacimiento>
+	</alumno>
+
+	<alumno>
+		<nombre> Kevin Isaac Huerta Montero</nombre>
+		<carrera>Desarrollo de software</carrera>
+		<nacimiento>14/02/2003</nacimiento>
+	</alumno>
+	
+	<alumno>
+		<nombre> Carlos Elias Huerta Montero</nombre>
+		<carrera>Desarrollo de software</carrera>
+		<nacimiento d = "08" m = "11" a = "2019">08/11/2019</nacimiento>
+	</alumno>
+
+</Alumnos>
